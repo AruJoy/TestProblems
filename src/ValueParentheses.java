@@ -3,6 +3,8 @@ import java.util.*;
 /**
  * https://www.acmicpc.net/problem/2504
  */
+// 43%  에서 오답
+// 예상: 3중 괄호 이상에서 요류 가능성
 public class ValueParentheses {
     static Scanner scanner = new Scanner(System.in);
 
